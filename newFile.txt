@@ -1,6 +1,3 @@
 fbvfbfb
-<<<<<<< HEAD
 meeeeeee
-=======
 heeeeeeeeee
->>>>>>> 5eac398d96c32eafc402ee5c7daf26781825d359
